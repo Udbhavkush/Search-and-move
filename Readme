@@ -1,2 +1,2 @@
-Search and move is a python script which searches the specified extension in the current directory and moves them to the specified directory.
+Search and move is a python script which searches the specified extension in the current directory and move all the files in current directory to the specified directory.
 The script uses glob and os module to find all the files of the specified extension and shutil (shell utilities) to move the files.
